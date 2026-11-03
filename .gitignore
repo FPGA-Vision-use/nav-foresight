@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.Xil/
+*.log
+*.jou
+*.str
+*.wdb
+.vscode/
+.idea/
+*.exe
+rollout_dump.txt
